@@ -1,6 +1,6 @@
 # xct
 
-I focus on offensive security & machine learning.
+Offensive security & machine learning.
 
 ---
 
