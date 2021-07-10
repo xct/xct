@@ -1,6 +1,6 @@
 # xct
 
-Offensive security & machine learning.
+Vulnerable Machine & Content Development • Offensive Security • Hobby ⚑ Collector • Walkthroughs @ http://youtube.com/xct_de
 
 ---
 
