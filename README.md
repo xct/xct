@@ -11,7 +11,7 @@ Vulnerable Machine & Content Development • Offensive Security • Hobby ⚑ Co
 </a>
 
 <a href="https://github.com/xct/xct">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xct&show_icons=true&theme=merko&langs_count=3&layout=default&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xct&hide=jupyter%20notebook&show_icons=true&theme=merko&langs_count=3&layout=default&hide_border=false" />
 </a>
 
 </p>
